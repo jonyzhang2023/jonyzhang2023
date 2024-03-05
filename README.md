@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p>
 
-- 🔭 I’m currently working on **Humanoid Robot** \\
+- 🔭 I’m currently working on **Humanoid Robot** //
  [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I) , [LLM Control Robot With Imiation Learning](https://arxiv.org/abs/2309.11359)
 
 - 🌱 I’m currently learning **RL, Vision Perception, LLM, Control&Plan in Robotics**
