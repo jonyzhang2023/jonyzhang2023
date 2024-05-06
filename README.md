@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Qiang Jony ZHANG</h1>
 <h3 align="center">A PhD student studying humanoid robots</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20views&color=0e75b6&style=flat" alt="jonyzhang2023" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20views&color=0e75b6&style=flat" alt="jonyzhang2023" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
 - 🔭 I’m currently working on **Humanoid Robot** : 
  [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I) , [LLM Control Robot With Imiation Learning](https://arxiv.org/abs/2309.11359)
@@ -11,6 +11,19 @@
 - 🌱 I’m currently learning **RL, Vision Perception, LLM, Control&Plan in Robotics**
 
 - 📫 How to reach me **zituka@foxmail.com**
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/ishandutta2007/custom-icon-badges -->
+<!-- View counter - https://github.com/ishandutta2007/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ishandutta2007?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ishandutta2007?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ishandutta2007/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ishandutta2007-profile-views"/></a>
+</p>
+
 
 <p align="left">
 </p>
