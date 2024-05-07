@@ -17,7 +17,7 @@
 <!-- View counter - https://github.com/jonyzhang2023/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/jonyzhang2023?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonyzhang2023?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonyzhang2023?color=55960c&style=for-the-badge&labelColor=658207&logo=star"/></a>
   <a href="https://github.com/jonyzhang2023?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jonyzhang2023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -52,32 +52,119 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VsCode
  </tr>
+ </tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65" alt="ubuntu" />
+      <br>Ubuntu
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="redhat" />
+      <br>RedHat
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="gitlab" />
+      <br>gitlab
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=matlab" width="65" height="65" alt="matlab" />
+      <br>MATLAB
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="65" height="65" alt="notion" />
+      <br>notion
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="ps" />
+      <br>PS
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
+      <br>pytorch
+ </tr>
+ </tr>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="r" />
+      <br>R
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="65" height="65" alt="stackoverflow" />
+      <br>stackoverflow
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
+      <br>tensorflow
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="twitter" />
+      <br>twitter
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vim" width="65" height="65" alt="vim" />
+      <br>vim
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="65" height="65" alt="raspberrypi" />
+      <br>raspberrypi
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="opencv" />
+      <br>opencv
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="jenkins" />
+      <br>jenkins
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="ai" />
+      <br>ai
+  </tr>
+ </tr>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="65" height="65" alt="arduino" />
+      <br>arduino
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=apple" width="65" height="65" alt="apple" />
+      <br>apple
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cmake" width="65" height="65" alt="cmake" />
+      <br>cmake
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="eclipse" />
+      <br>eclipse
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="gmail" />
+      <br>gmail
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=instagram" width="65" height="65" alt="instagram" />
+      <br>instagram
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="pycharm" />
+      <br>pycharm
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sublime" width="65" height="65" alt="sublime" />
+      <br>sublime
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="bash" />
+      <br>bash
 </table>
 <br><br>
 </div>
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
-
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d65052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> 
+ -->
 
 
 
 <p align="center">
 
-<a href="https://github.com/jonyzhang2023?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jonyzhang2023&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jonyzhang2023's github-readme-stats"/></a>
-<a href="https://github.com/jonyzhang2023?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonyzhang2023&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@jonyzhang2023's github-readme-streak-stats"/></a>
+<a href="https://github.com/jonyzhang2023?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jonyzhang2023&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="65%" alt="@jonyzhang2023's github-readme-stats"/></a>
+<a href="https://github.com/jonyzhang2023?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonyzhang2023&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="65%" alt="@jonyzhang2023's github-readme-streak-stats"/></a>
 
 </p>
 
