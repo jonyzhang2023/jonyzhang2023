@@ -5,10 +5,18 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
-- 🔭 I’m currently working on **Humanoid Robot** : 
- [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I) , [LLM Control Robot With Imiation Learning](https://arxiv.org/abs/2309.11359)
+- 🔭 I’m currently working on **Humanoid Robots**:
+  - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
+  - [TianGong Humanoid Robot](https://www.youtube.com/results?search_query=tiangong+humanoid)
+  - [LLM Control Robot With Imitation Learning](https://arxiv.org/abs/2309.11359)
 
 - 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics**
+  - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs](https://arxiv.org/pdf/2404.04869)
+  - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/pdf/2403.15223)
+  - [Simple Policy Optimization](https://arxiv.org/pdf/2401.16025)
+  - [Reinforcement Learning with Generalizable Gaussian Splatting](https://arxiv.org/pdf/2404.07950)
+
+- 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
 - 📫 How to reach me **zituka@foxmail.com**
 
