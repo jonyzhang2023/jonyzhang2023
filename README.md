@@ -16,6 +16,7 @@
   - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/pdf/2403.15223)
   - [Simple Policy Optimization](https://arxiv.org/pdf/2401.16025)
   - [Reinforcement Learning with Generalizable Gaussian Splatting](https://arxiv.org/pdf/2404.07950)
+  - [MambaasDecision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
