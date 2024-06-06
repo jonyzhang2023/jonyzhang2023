@@ -20,6 +20,7 @@
   - [Simple Policy Optimization](https://arxiv.org/pdf/2401.16025)
   - [MAD: Multi-Alignment MEG-to-Text Decoding](https://arxiv.org/abs/2406.01512)
   - [NeuSpeech: Decode Neural signal as Speech](https://arxiv.org/pdf/2403.01748v3)
+  - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
