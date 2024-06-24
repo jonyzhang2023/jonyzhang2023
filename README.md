@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **Humanoid Robots**:
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
   - [TianGong Humanoid Robot](https://www.youtube.com/results?search_query=tiangong+humanoid)
-  - [LLM Control Robot With Imitation Learning](https://arxiv.org/abs/2309.11359)
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
 
 - 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics**
