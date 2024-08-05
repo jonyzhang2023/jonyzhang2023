@@ -6,21 +6,22 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
 - 🔭 I’m currently working on **Humanoid Robots**:
+  - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.youtube.com/results?search_query=tiangong+humanoid)
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
-  - [TianGong Humanoid Robot](https://www.youtube.com/results?search_query=tiangong+humanoid)
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
 
 - 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics**
-  - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs](https://arxiv.org/pdf/2404.04869)
-  - [Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://arxiv.org/abs/2309.11359)
-  - [Reinforcement Learning with Generalizable Gaussian Splatting](https://arxiv.org/pdf/2404.07950)
+  - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
+  - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs (ICRA2024)](https://arxiv.org/pdf/2404.04869)
+  - [Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning (ICRA2024)](https://arxiv.org/abs/2309.11359)
+  - [Reinforcement Learning with Generalizable Gaussian Splatting (IROS2024)](https://arxiv.org/pdf/2404.07950)
   - [Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning](https://arxiv.org/pdf/2406.02370)
   - [Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
-  - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance](https://arxiv.org/pdf/2403.15223)
+  - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance (IROS2024)](https://arxiv.org/pdf/2403.15223)
   - [Simple Policy Optimization](https://arxiv.org/pdf/2401.16025)
   - [MAD: Multi-Alignment MEG-to-Text Decoding](https://arxiv.org/abs/2406.01512)
   - [NeuSpeech: Decode Neural signal as Speech](https://arxiv.org/pdf/2403.01748v3)
-  - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
+  - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments (CoRL2022)](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
