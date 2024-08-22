@@ -5,6 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
+- 🔭 I'm the senior manager of embodied AI research at the Beijing Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!)
 - 🔭 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.youtube.com/results?search_query=tiangong+humanoid)
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
