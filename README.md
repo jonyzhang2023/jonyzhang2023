@@ -16,6 +16,7 @@
   - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs (ICRA2024)](https://arxiv.org/pdf/2404.04869)
   - [Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning (ICRA2024)](https://arxiv.org/abs/2309.11359)
   - [Reinforcement Learning with Generalizable Gaussian Splatting (IROS2024)](https://arxiv.org/pdf/2404.07950)
+  - [Spiking Diffusion Models (IEEE Transactions on Artificial Intelligence)](https://arxiv.org/pdf/2408.16467)
   - [Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning](https://arxiv.org/pdf/2406.02370)
   - [Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
   - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance (IROS2024)](https://arxiv.org/pdf/2403.15223)
