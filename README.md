@@ -13,6 +13,7 @@
 
 - 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics**
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
+  - [DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations(NeurIPS2024)](https://openreview.net/forum?id=2nvkD0sPOk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs (ICRA2024)](https://arxiv.org/pdf/2404.04869)
   - [Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning (ICRA2024)](https://arxiv.org/abs/2309.11359)
   - [Reinforcement Learning with Generalizable Gaussian Splatting (IROS2024)](https://arxiv.org/pdf/2404.07950)
