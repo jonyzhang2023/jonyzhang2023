@@ -29,6 +29,7 @@
   - [Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](https://arxiv.org/pdf/2409.13174)
   - [Multi-Floor Zero-Shot Object Navigation Policy](https://arxiv.org/pdf/2409.10906)
   - [E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework](https://arxiv.org/abs/2410.02141)
+  - [Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models](https://arxiv.org/abs/2405.20090)
   - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments (CoRL2022)](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
