@@ -10,7 +10,7 @@
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
 
-- 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics**
+- 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics.** Here are some papers I've published recently :
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
   - [DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations(NeurIPS2024)](https://openreview.net/forum?id=2nvkD0sPOk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Spiking Neural Network as Adaptive Event Stream Slicer(NeurIPS2024)](https://openreview.net/forum?id=CcNw4mVIxo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
