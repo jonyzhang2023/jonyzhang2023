@@ -19,6 +19,7 @@
   - [Reinforcement Learning with Generalizable Gaussian Splatting (IROS2024)](https://arxiv.org/pdf/2404.07950)
   - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance (IROS2024)](https://arxiv.org/pdf/2403.15223)
   - [Spiking Diffusion Models (IEEE Transactions on Artificial Intelligence)](https://arxiv.org/pdf/2408.16467)
+  - [Uncovering Vision Modality Threats in Image-to-Image Tasks](https://arxiv.org/pdf/2412.05538)
   - [Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models](https://www.arxiv.org/pdf/2409.07163)
   - [Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning](https://arxiv.org/pdf/2406.02370)
   - [Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
