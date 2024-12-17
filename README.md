@@ -6,7 +6,7 @@
 
 - 🔭 I'm the senior manager of embodied AI research at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!)
 - 🔭 I’m currently working on **Humanoid Robots**:
-  - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.youtube.com/results?search_query=tiangong+humanoid)
+  - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.x-humanoid.com/)
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
 
