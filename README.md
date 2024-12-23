@@ -4,11 +4,25 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
-- 🔭 I'm the senior manager of embodied AI research at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!)
+- 🔭 I'm the Director of Embodied AI research at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!)
 - 🔭 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.x-humanoid.com/)
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
+
+- 📰 News
+  - **2024-11-25**: Interviewed by the Global Times. [Advancements in AI for football and robot marathons](https://www.globaltimes.cn/page/202411/1323695.shtml)
+  - **2024-11-16**: Invited to attend the AGIROS Open Source Community Conference at the Institute of Software, Chinese Academy of Sciences, and delivered a keynote speech on 'Embodied Intelligence of Humanoid Robots'.
+  - **2024-11-9**: Join the Intel China Academic Talent Program and delivered a keynote speech on "Research on Embodied AI of Humanoid Robots".
+  - **2024-11-5**: Invited to attend the BAAI "ZhiYuan Forum - Embodiment and World Model Summit".
+  - **2024-9-30**: Give a talk at the School of Computer Science, Peking University, on Multimodal Perception and Large Model Decision-Making for Humanoid Robots.
+  - **2024-7-29**: Interviewed by Mango (Hunan TV) on the topic of "Embodied AI and Humanoid Robots Tian Gong".
+  - **2024-7-5**: Invited by the China Internet Research Institute to draft a white paper on embodied intelligence in the industrial internet, presenting a report on the integration and innovation of new industrial networks and humanoid robot embodied intelligence technology.
+  - **2024-7-1**: Invited to give a talk in XMech at Zhejiang University.
+  - **2024-5-29**: Interviewed by the Beijing Association for Science and Technology.
+  - **2024-5-9**: [The humanoid robot platform 'TianGong' is continuously being iterated and developed.](https://tv.cctv.com/2024/05/09/VIDEk6Q0pOBAcbsWlM6mD2gN240509.shtml)
+
+
 
 - 🌱 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics.** Here are some papers I've published recently :
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
