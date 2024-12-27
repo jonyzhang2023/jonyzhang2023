@@ -36,7 +36,7 @@
   - [Fully spiking neural network for legged robots (ICASSP 2025)](https://arxiv.org/pdf/2310.05022)
   - [Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras (ICASSP 2025)](https://arxiv.org/pdf/2310.05022)
   - [Masked Spiking Transformer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
-  - [Spiking Denoising Diffusion Probabilistic Models (WACV24)](https://arxiv.org/abs/2306.17046)
+  - [Spiking Denoising Diffusion Probabilistic Models (WACV 2024)](https://arxiv.org/abs/2306.17046)
   - [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/pdf/2412.13877)
   - [NeuGPT: Unified multi-modal Neural GPT](https://arxiv.org/pdf/2410.20916)
   - [Recursive Cleaning for Large-scale Protein Data via Multimodal Learning](https://www.biorxiv.org/content/biorxiv/early/2024/10/12/2024.10.08.617190.full.pdf)
