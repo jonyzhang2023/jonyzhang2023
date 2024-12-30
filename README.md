@@ -11,6 +11,7 @@
   - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
 
 - 🗞️ News
+  - **2024-11-30**: Invited by the National Health Commission, I participated in the review of the artificial intelligence medical project as an expert reviewer.
   - **2024-11-25**: Interviewed by the Global Times. [Advancements in AI for football and robot marathons](https://www.globaltimes.cn/page/202411/1323695.shtml)
   - **2024-11-16**: Invited to attend the AGIROS Open Source Community Conference at the Institute of Software, Chinese Academy of Sciences, and delivered a keynote speech on 'Embodied Intelligence of Humanoid Robots'.
   - **2024-11-9**: Join the Intel China Academic Talent Program and delivered a keynote speech on "Research on Embodied AI of Humanoid Robots".
