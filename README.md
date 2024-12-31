@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
-- 🔭 I'm the Director of Embodied AI research at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!)
+- 🔭 I'm the Director of Embodied AI research at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!) Previously, I participated in 'Tian He' supercomputing projects in China and also had a very pleasant working experience at DJI.
 - 🌟 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.x-humanoid.com/)
   - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
