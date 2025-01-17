@@ -7,8 +7,8 @@
 - 🔭 I'm the Chair of Research Committee at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!) Previously, I participated in 'Tianhe 天河' supercomputing projects in China and also had a very pleasant working experience at [DJI](https://www.dji.com/).
 - 🌟 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://www.x-humanoid.com/)
-  - [Humanoid Robot Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
-  - [Humanoid Robot GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M)
+  - [Humanoid Robot PNDbotics Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
+  - [Humanoid Robot Fourier GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M) 
 
 - 🗞️ News
   - **2025-01-08**: Participated in the design of the long - term planning and technical roadmap for robots in Beijing City.
