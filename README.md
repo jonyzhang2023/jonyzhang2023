@@ -28,6 +28,7 @@
 
 - 📝 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics.** Here are some papers I've published recently :
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
+  - [Multi-Floor Zero-Shot Object Navigation Policy (ICRA 2025)](https://arxiv.org/pdf/2409.10906)
   - [DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations(NeurIPS2024)](https://openreview.net/forum?id=2nvkD0sPOk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Spiking Neural Network as Adaptive Event Stream Slicer(NeurIPS2024)](https://openreview.net/forum?id=CcNw4mVIxo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs (ICRA2024)](https://arxiv.org/pdf/2404.04869)
@@ -47,14 +48,13 @@
   - [Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models](https://www.arxiv.org/pdf/2409.07163)
   - [Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning](https://arxiv.org/pdf/2406.02370)
   - [Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
-  - [Simple Policy Optimization](https://arxiv.org/pdf/2401.16025)
+  - [Simple Policy Optimization](https://arxiv.org/abs/2401.16025)
   - [MAD: Multi-Alignment MEG-to-Text Decoding](https://arxiv.org/abs/2406.01512)
   - [NeuSpeech: Decode Neural signal as Speech](https://arxiv.org/pdf/2403.01748v3)
-  - [Multi-Floor Zero-Shot Object Navigation Policy](https://arxiv.org/pdf/2409.10906)
   - [Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models](https://arxiv.org/pdf/2409.13174)
-  - [Multi-Floor Zero-Shot Object Navigation Policy](https://arxiv.org/pdf/2409.10906)
   - [E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework](https://arxiv.org/abs/2410.02141)
   - [Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models](https://arxiv.org/abs/2405.20090)
+  - [A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning](https://arxiv.org/pdf/2501.17384)
   - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments (CoRL2022)](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
