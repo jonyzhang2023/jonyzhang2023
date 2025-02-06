@@ -37,7 +37,7 @@
   - [TriHelper: Zero-Shot Object Navigation with Dynamic Assistance (IROS2024)](https://arxiv.org/pdf/2403.15223)
   - [Spiking Diffusion Models (IEEE Transactions on Artificial Intelligence)](https://arxiv.org/pdf/2408.16467)
   - [Fully spiking neural network for legged robots (ICASSP 2025)](https://arxiv.org/pdf/2310.05022)
-  - [Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras (ICASSP 2025)](https://arxiv.org/pdf/2310.05022)
+  - [Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras (ICASSP 2025)](https://arxiv.org/pdf/2501.01040)
   - [Masked Spiking Transformer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
   - [Spiking Denoising Diffusion Probabilistic Models (WACV 2024)](https://arxiv.org/abs/2306.17046)
   - [The Meta-Representation Hypothesis](https://arxiv.org/pdf/2501.02481)
