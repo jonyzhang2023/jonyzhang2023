@@ -55,6 +55,7 @@
   - [E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework](https://arxiv.org/abs/2410.02141)
   - [Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models](https://arxiv.org/abs/2405.20090)
   - [A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning](https://arxiv.org/pdf/2501.17384)
+  - [MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation](https://arxiv.org/abs/2502.13451)
   - [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments (CoRL2022)](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/)
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
