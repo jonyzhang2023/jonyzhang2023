@@ -28,7 +28,7 @@
 
 - 📝 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics.** Here are some papers I've published recently :
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
-  - [Uncovering Vision Modality Threats in Image-to-Image Tasks （CVPR 2025）](https://arxiv.org/pdf/2412.05538)
+  - [Uncovering Vision Modality Threats in Image-to-Image Tasks (CVPR 2025)](https://arxiv.org/pdf/2412.05538)
   - [Multi-Floor Zero-Shot Object Navigation Policy (ICRA 2025)](https://arxiv.org/pdf/2409.10906)
   - [DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations(NeurIPS2024)](https://openreview.net/forum?id=2nvkD0sPOk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Spiking Neural Network as Adaptive Event Stream Slicer(NeurIPS2024)](https://openreview.net/forum?id=CcNw4mVIxo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
