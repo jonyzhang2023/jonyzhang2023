@@ -28,6 +28,7 @@
 
 - 📝 I’m currently learning **Embodied AI, RL, Vision Perception, LLM, Control&Plan in Robotics.** Here are some papers I've published recently :
   - [Whole-body Humanoid Robot Locomotion with Human Reference (IROS2024)](https://arxiv.org/abs/2402.18294)
+  - [Uncovering Vision Modality Threats in Image-to-Image Tasks （CVPR 2025）](https://arxiv.org/pdf/2412.05538)
   - [Multi-Floor Zero-Shot Object Navigation Policy (ICRA 2025)](https://arxiv.org/pdf/2409.10906)
   - [DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations(NeurIPS2024)](https://openreview.net/forum?id=2nvkD0sPOk&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
   - [Spiking Neural Network as Adaptive Event Stream Slicer(NeurIPS2024)](https://openreview.net/forum?id=CcNw4mVIxo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))
@@ -44,7 +45,6 @@
   - [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/pdf/2412.13877)
   - [NeuGPT: Unified multi-modal Neural GPT](https://arxiv.org/pdf/2410.20916)
   - [Recursive Cleaning for Large-scale Protein Data via Multimodal Learning](https://www.biorxiv.org/content/biorxiv/early/2024/10/12/2024.10.08.617190.full.pdf)
-  - [Uncovering Vision Modality Threats in Image-to-Image Tasks](https://arxiv.org/pdf/2412.05538)
   - [Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models](https://www.arxiv.org/pdf/2409.07163)
   - [Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning](https://arxiv.org/pdf/2406.02370)
   - [Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/pdf/2406.02013)
