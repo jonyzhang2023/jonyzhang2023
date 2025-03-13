@@ -42,6 +42,7 @@
   - [Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras (ICASSP 2025)](https://arxiv.org/pdf/2501.01040)
   - [Masked Spiking Transformer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
   - [Spiking Denoising Diffusion Probabilistic Models (WACV 2024)](https://arxiv.org/abs/2306.17046)
+  - [Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition (Generative Models for Robot Learning Workshop @ ICLR2025)](https://github.com/AndyCao1125/MCDP)
   - [LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures](https://arxiv.org/abs/2503.08349)
   - [Trinity: A Modular Humanoid Robot AI System](https://arxiv.org/abs/2503.08338)
   - [Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion](https://arxiv.org/abs/2503.08299)
