@@ -64,7 +64,7 @@
 
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
-- 📫 How to reach me **zituka@foxmail.com**  |  **qzhang749@connect.hkust-gz.edu.cn**
+- 📫 How to reach me **jony.zhang@x-humanoid.com** | **zituka@foxmail.com**  |  **qzhang749@connect.hkust-gz.edu.cn**
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/jonyzhang2023/custom-icon-badges -->
