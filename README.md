@@ -43,6 +43,7 @@
   - [Masked Spiking Transformer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
   - [Spiking Denoising Diffusion Probabilistic Models (WACV 2024)](https://arxiv.org/abs/2306.17046)
   - [Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition (Generative Models for Robot Learning Workshop @ ICLR2025)](https://github.com/AndyCao1125/MCDP)
+  - [ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network](https://arxiv.org/abs/2503.09985)
   - [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/abs/2503.09010)
   - [LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures](https://arxiv.org/abs/2503.08349)
   - [Trinity: A Modular Humanoid Robot AI System](https://arxiv.org/abs/2503.08338)
