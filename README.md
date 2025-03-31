@@ -11,6 +11,7 @@
   - [Humanoid Robot Fourier GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M) 
 
 - 🗞️ News
+  - **2025-03-29**: Invited talk at [CEAI 2025](https://ceai.caai.cn/).
   - **2025-03-06**: I have been invited to join the CNR Finance Jin Ding Think Tank.
   - **2025-01-08**: Participated in the design of the long - term planning and technical roadmap for robots in Beijing City.
   - **2024-12-30**: Invited by the National Health Commission, I participated in the review of the artificial intelligence medical project as an expert reviewer.
