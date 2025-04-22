@@ -46,6 +46,7 @@
   - [Masked Spiking Transformer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf)
   - [Spiking Denoising Diffusion Probabilistic Models (WACV 2024)](https://arxiv.org/abs/2306.17046)
   - [Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition (Generative Models for Robot Learning Workshop @ ICLR2025)](https://github.com/AndyCao1125/MCDP)
+  - [RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/pdf/2504.14604)
   - [The Meta-Representation Hypothesis](https://arxiv.org/abs/2501.02481#:~:text=Humans%20rely%20on%20high%2Dlevel,abstract%20general%20rules%20from%20experience.)
   - [EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks](https://arxiv.org/abs/2503.11089)
   - [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/abs/2503.09010)
