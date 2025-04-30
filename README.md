@@ -12,8 +12,8 @@
 
 - 🗞️ News
   - **2025-04-24**: Co-hosted a seminar on embodied intelligent robots in cooperation with Peking University.
-  - **April 19, 2025**: *The Tiangong humanoid robot etched its name in history! It successfully completed a half - marathon!*
-  - <span style="color: red;">**2025-04-10**: Interviewed by the "Innovation China" column of the China Association for Science and Technology.</span>
+  - <span style="color: red;">**2025-04-19**: *The Tiangong humanoid robot etched its name in history! It successfully completed a half - marathon!*</span>
+  - **2025-04-10**: Interviewed by the "Innovation China" column of the China Association for Science and Technology.
   - **2025-03-29**: Invited talk at [CEAI 2025](https://ceai.caai.cn/).
   - **2025-03-06**: I have been invited to join the CNR Finance Jin Ding Think Tank.
   - **2025-01-08**: Participated in the design of the long - term planning and technical roadmap for robots in Beijing City.
