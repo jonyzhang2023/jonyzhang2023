@@ -47,7 +47,6 @@
 | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | [Link](https://www.arxiv.org/pdf/2409.07163) |
 | Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning | [Link](https://arxiv.org/pdf/2406.02370) |
 | Mamba as Decision Maker : Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning | [Link](https://arxiv.org/pdf/2406.02013) |
-| Simple Policy Optimization | [Link](https://arxiv.org/abs/2401.16025) |
 | MAD: Multi-Alignment MEG-to-Text Decoding | [Link](https://arxiv.org/abs/2406.01512) |
 | NeuSpeech: Decode Neural signal as Speech | [Link](https://arxiv.org/pdf/2403.01748v3) |
 | Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models | [Link](https://arxiv.org/pdf/2409.13174) |
@@ -60,6 +59,7 @@
 | Conference/Journal | Title | Link |
 | --- | --- | --- |
 | IROS 2024 | Whole-body Humanoid Robot Locomotion with Human Reference | [Link](https://arxiv.org/abs/2402.18294) |
+| ICML 2025 | Simple Policy Optimization | [Link](https://arxiv.org/abs/2401.16025) |
 | Generative Models for Robot Learning Workshop @ ICLR2025 | Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition | [Link](https://github.com/AndyCao1125/MCDP) |
 | RSS 2025 | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [Link](https://arxiv.org/pdf/2412.13877) |
 | ICME 2025 | ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network | [Link](https://arxiv.org/abs/2503.09985) |
@@ -71,12 +71,12 @@
 | IEEE Transactions on Artificial Intelligence | Spiking Diffusion Models | [Link](https://arxiv.org/pdf/2408.16467) |
 | NeurIPS 2024 | Spiking Neural Network as Adaptive Event Stream Slicer | [Link](https://openreview.net/forum?id=CcNw4mVIxo&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) |
 | ICRA 2024 | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | [Link](https://arxiv.org/pdf/2404.04869) |
-| ICRA2024 | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | [Link](https://arxiv.org/abs/2309.11359) |
+| ICRA 2024 | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | [Link](https://arxiv.org/abs/2309.11359) |
 | IROS 2024 | Reinforcement Learning with Generalizable Gaussian Splatting | [Link](https://arxiv.org/pdf/2404.07950) |
 | IROS 2024 | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | [Link](https://arxiv.org/pdf/2403.15223) |
 | WACV 2024 | Spiking Denoising Diffusion Probabilistic Models | [Link](https://arxiv.org/abs/2306.17046) |
 | ICCV 2023 | Masked Spiking Transformer | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf) |
-| CoRL2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | [Link](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/) |
+| CoRL 2022 | RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments | [Link](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/) |
 - 👯 I have hidden some of my previous work, welcome to chat. I am currently preparing my personal website and more, and I’m looking to collaborate on **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**
 
 - 📫 How to reach me **jony.zhang@x-humanoid.com** | **zituka@foxmail.com**  |  **qzhang749@connect.hkust-gz.edu.cn**
