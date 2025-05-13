@@ -35,6 +35,7 @@
 ### Pre - prints
 | Title | Link |
 | --- | --- |
+| Occupancy World Model for Robots | [Link](https://www.arxiv.org/abs/2505.05512) |
 | RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots | [Link](https://arxiv.org/pdf/2504.14604) |
 | The Meta-Representation Hypothesis | [Link](https://arxiv.org/abs/2501.02481#:~:text=Humans%20rely%20on%20high%2Dlevel,abstract%20general%20rules%20from%20experience.) |
 | EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks | [Link](https://arxiv.org/abs/2503.11089) |
