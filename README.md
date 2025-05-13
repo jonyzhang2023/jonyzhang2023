@@ -55,6 +55,7 @@
 | Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models | [Link](https://arxiv.org/abs/2405.20090) |
 | A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning | [Link](https://arxiv.org/pdf/2501.17384) |
 | MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation | [Link](https://arxiv.org/abs/2502.13451) |
+| Recursive Cleaning for Large-scale Protein Data via Multimodal Learning | [Link](https://www.biorxiv.org/content/10.1101/2024.10.08.617190v1) |
 
 ### Publications
 | Conference/Journal | Title | Link |
