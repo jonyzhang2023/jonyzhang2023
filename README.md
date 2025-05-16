@@ -60,8 +60,8 @@
 ### Publications
 | Conference/Journal | Title | Link |
 | --- | --- | --- |
-| ACL 2025 | MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation | [Link](https://arxiv.org/abs/2502.13451) |
 | IROS 2024 | Whole-body Humanoid Robot Locomotion with Human Reference | [Link](https://arxiv.org/abs/2402.18294) |
+| ACL 2025 | MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation | [Link](https://arxiv.org/abs/2502.13451) |
 | ICML 2025 | Simple Policy Optimization | [Link](https://arxiv.org/abs/2401.16025) |
 | Generative Models for Robot Learning Workshop @ ICLR2025 | Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition | [Link](https://github.com/AndyCao1125/MCDP) |
 | RSS 2025 | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [Link](https://arxiv.org/pdf/2412.13877) |
