@@ -35,6 +35,7 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                        | [Link](https://acodedog.github.io/OmniPerceptionPages/)                                                                            |
 | Survival Games: Human-LLM Strategic Showdownsunder Severe Resource Scarcity                                            | [Link](https://arxiv.org/abs/2505.17937)                                                                                           |
 | What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?                                           | [Link](https://huggingface.co/papers/2505.22129)                                                                                   |
 | Occupancy World Model for Robots                                                                                       | [Link](https://www.arxiv.org/abs/2505.05512)                                                                                       |
