@@ -11,7 +11,7 @@
   - [Humanoid Robot Fourier GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M) 
 
 - 🗞️ News
-  - **2025-05-24**: Publish an article in People's Daily [Link](https://www.peopleapp.com/column/30049160906-500006276594)
+  - **2025-05-24**: Publish an [article](https://www.peopleapp.com/column/30049160906-500006276594) in People's Daily.
   - **2025-05-24**: Participated in KADC 2025. 
   - **2025-04-24**: Co-hosted a seminar on embodied intelligent robots in cooperation with Peking University.
   - <span style="color: red;">**2025-04-19**: *The Tiangong humanoid robot etched its name in history! It successfully completed a half - marathon!*</span>
