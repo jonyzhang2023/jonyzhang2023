@@ -37,6 +37,7 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning    | [Link](https://www.arxiv.org/abs/2506.04941)                                                                                       |
 | Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments                     | [Link](https://acodedog.github.io/OmniPerceptionPages/)                                                                            |
 | Survival Games: Human-LLM Strategic Showdownsunder Severe Resource Scarcity                                            | [Link](https://arxiv.org/abs/2505.17937)                                                                                           |
 | What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?                                           | [Link](https://huggingface.co/papers/2505.22129)                                                                                   |
