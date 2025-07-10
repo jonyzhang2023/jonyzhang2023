@@ -38,6 +38,7 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| LOVON: Legged Open-Vocabulary Object Navigator                                                                         | [Link](https://arxiv.org/abs/2507.06747)                                                                                           |
 | ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning    | [Link](https://www.arxiv.org/abs/2506.04941)                                                                                       |
 | Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments                     | [Link](https://acodedog.github.io/OmniPerceptionPages/)                                                                            |
 | Survival Games: Human-LLM Strategic Showdownsunder Severe Resource Scarcity                                            | [Link](https://arxiv.org/abs/2505.17937)                                                                                           |
