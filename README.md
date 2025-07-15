@@ -5,10 +5,12 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
 - 🔭 I'm the Chair of Research Committee at the China National and Local co-built Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!) Previously, I participated in 'Tianhe 天河' supercomputing projects in China and also had a very pleasant working experience at [DJI](https://www.dji.com/).
+- 📚 Visit my [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate) for my publications.
 - 🌟 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://x-humanoid.com//)
   - [Humanoid Robot PNDbotics Adam](https://www.youtube.com/watch?v=7hK2ySYBa1I)
   - [Humanoid Robot Fourier GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M) 
+
 
 - 🗞️ News
   - **2025-07-09**: We released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
