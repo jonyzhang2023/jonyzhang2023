@@ -11,7 +11,7 @@
   - [Humanoid Robot Fourier GR1 (2021~2023)](https://www.youtube.com/watch?v=kr7FaZPFp6M) 
 
 - 🗞️ News
-  - **2025-07-09**: We released the motion control framework for the humanoid robot marathon champion [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
+  - **2025-07-09**: We released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
   - **2025-05-24**: Publish an [article](https://www.peopleapp.com/column/30049160906-500006276594) in People's Daily.
   - **2025-05-24**: Participated in KADC 2025. 
   - **2025-05-08**: The "Innovation China" program I participated in was officially broadcast.
