@@ -100,12 +100,12 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/jonyzhang2023/custom-icon-badges -->
 <!-- View counter - https://github.com/jonyzhang2023/Simple-View-Counter -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jonyzhang2023?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jonyzhang2023?color=55960c&style=for-the-badge&labelColor=658207&logo=star"/></a>
   <a href="https://github.com/jonyzhang2023?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jonyzhang2023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+</p> -->
 <!-- <p align="center">
 <a href="https://gist.github.com/Princejonyzhang2023Tech"><img src="https://profile-counter.glitch.me/{jonyzhang2023}/count.svg" alt="Princejonyzhang2023Tech :: Visitor's Count" /></a>
 </p> -->
