@@ -42,8 +42,7 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots                   |
-| [Link](https://humanoid-occupancy.github.io/)                                                                          |
+| Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots                   | [Link](https://humanoid-occupancy.github.io/)                                                                                      |
 | UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots                                           | [Link](https://yinkangning0124.github.io/Humanoid-UniTracker/)                                                                     |
 | LOVON: Legged Open-Vocabulary Object Navigator                                                                         | [Link](https://arxiv.org/abs/2507.06747)                                                                                           |
 | ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning    | [Link](https://www.arxiv.org/abs/2506.04941)                                                                                       |
