@@ -42,6 +42,7 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| HumanoidVerse: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement                              | [Link](https://haozhuo-zhang.github.io/HumanoidVerse-project-page/)                                                                |
 | Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots                   | [Link](https://humanoid-occupancy.github.io/)                                                                                      |
 | UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots                                           | [Link](https://yinkangning0124.github.io/Humanoid-UniTracker/)                                                                     |
 | LOVON: Legged Open-Vocabulary Object Navigator                                                                         | [Link](https://arxiv.org/abs/2507.06747)                                                                                           |
