@@ -42,6 +42,8 @@
 ### Pre - prints
 | Title                                                                                                                  | Link                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| TopoNav: Topological Graphs as a Key Enabler for Advanced Object                                                       |
+| Navigation                                                                                                             | [Link](https://arxiv.org/pdf/2509.01364)                                                                                           |
 | HumanoidVerse: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement                              | [Link](https://haozhuo-zhang.github.io/HumanoidVerse-project-page/)                                                                |
 | Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots                   | [Link](https://humanoid-occupancy.github.io/)                                                                                      |
 | UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots                                           | [Link](https://yinkangning0124.github.io/Humanoid-UniTracker/)                                                                     |
