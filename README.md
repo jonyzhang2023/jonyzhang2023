@@ -16,7 +16,6 @@
   - **2025-07-29**: We released the Humanoid General Multimodal Perception Module, [Humanoid Occupancy](https://humanoid-occupancy.github.io/).
   - **2025-07-09**: We released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
   - **2025-05-24**: Publish an [article](https://www.peopleapp.com/column/30049160906-500006276594) in People's Daily.
-  - **2025-05-24**: Participated in KADC 2025. 
   - **2025-05-08**: The "Innovation China" program I participated in was officially broadcast.
   - **2025-04-24**: Co-hosted a seminar on embodied intelligent robots in cooperation with Peking University.
   - <span style="color: red;">**2025-04-19**: *The Tiangong humanoid robot etched its name in history! It successfully completed a half - marathon!*</span>
