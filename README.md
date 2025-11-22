@@ -13,28 +13,29 @@
 
 
 - 🗞️ News
-  - **2025-08**: We won the 100m championship, 400m second and third place, 1500m second place, 4*100m second place, material organization competition championship, and material handling competition second place at the first World Robotics Conference. [WHR2025](https://www.whrgoc.com/)
-  - **2025-07-29**: We released the Humanoid General Multimodal Perception Module, [Humanoid Occupancy](https://humanoid-occupancy.github.io/).
-  - **2025-07-09**: We released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
-  - **2025-05-24**: Publish an [article](https://www.peopleapp.com/column/30049160906-500006276594) in People's Daily.
-  - **2025-05-08**: The "Innovation China" program I participated in was officially broadcast.
-  - **2025-04-24**: Co-hosted a seminar on embodied intelligent robots in cooperation with Peking University.
-  - <span style="color: red;">**2025-04-19**: *The Tiangong humanoid robot etched its name in history! It successfully completed a half - marathon!*</span>
-  - **2025-04-10**: Interviewed by the "Innovation China" column of the China Association for Science and Technology.
-  - **2025-03-29**: Invited talk at [CEAI 2025](https://ceai.caai.cn/).
-  - **2025-03-06**: I have been invited to join the CNR Finance Jin Ding Think Tank.
-  - **2025-01-08**: Participated in the design of the long - term planning and technical roadmap for robots in Beijing City.
-  - **2024-12-30**: Invited by the National Health Commission, I participated in the review of the artificial intelligence medical project as an expert reviewer.
-  - **2024-11-25**: Interviewed by the Global Times. [Advancements in AI for football and robot marathons](https://www.globaltimes.cn/page/202411/1323695.shtml)
-  - **2024-11-16**: Invited to attend the AGIROS Open Source Community Conference at the Institute of Software, Chinese Academy of Sciences, and delivered a keynote speech on 'Embodied Intelligence of Humanoid Robots'.
-  - **2024-11-9**: Join the Intel China Academic Talent Program and delivered a keynote speech on "Research on Embodied AI of Humanoid Robots".
-  - **2024-11-5**: Invited to attend the BAAI "ZhiYuan Forum - Embodiment and World Model Summit".
-  - **2024-9-30**: Give a talk at the School of Computer Science, Peking University, on Multimodal Perception and Large Model Decision-Making for Humanoid Robots.
-  - **2024-7-29**: Interviewed by Mango (Hunan) TV on the topic of "Embodied AI and Humanoid Robots Tian Gong".
-  - **2024-7-5**: Invited by the China Internet Research Institute to draft a white paper on embodied intelligence in the industrial internet, presenting a report on the integration and innovation of new industrial networks and humanoid robot embodied intelligence technology.
-  - **2024-7-1**: Invited to give a talk in XMech at Zhejiang University.
-  - **2024-5-29**: Interviewed by the Beijing Association for Science and Technology.
-  - **2024-5-9**: [The humanoid robot platform 'TianGong' is continuously being iterated and developed.](https://tv.cctv.com/2024/05/09/VIDEk6Q0pOBAcbsWlM6mD2gN240509.shtml)
+  - **2025-11-29**: Our work [[SPO](https://arxiv.org/abs/2401.16025)] has been adopted as the baseline reinforcement learning algorithm by [[PI0.6](https://www.pi.website/blog/pistar06)].
+    - **2025-08**: We won the 100m championship, 400m second and third place, 1500m second place, 4x100m second place, material organization competition championship, and material handling competition second place at the first World Robotics Conference. [WHR2025](https://www.whrgoc.com/)
+    - **2025-07-29**: Released the Humanoid General Multimodal Perception Module, [Humanoid Occupancy](https://humanoid-occupancy.github.io/).
+    - **2025-07-09**: Released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
+    - **2025-05-24**: Published an [article](https://www.peopleapp.com/column/30049160906-500006276594) in People's Daily.
+    - **2025-05-08**: The "Innovation China" program I participated in was officially broadcast.
+    - **2025-04-24**: Co-hosted a seminar on embodied intelligent robots in cooperation with Peking University.
+    - <span style="color: red;">**2025-04-19**: *The Tiangong humanoid robot made history! It successfully completed a half-marathon!*</span>
+    - **2025-04-10**: Interviewed by the "Innovation China" column of the China Association for Science and Technology.
+    - **2025-03-29**: Delivered an invited talk at [CEAI 2025](https://ceai.caai.cn/).
+    - **2025-03-06**: Invited to join the CNR Finance Jin Ding Think Tank.
+    - **2025-01-08**: Participated in the design of the long-term planning and technical roadmap for robots in Beijing City.
+    - **2024-12-30**: Invited by the National Health Commission to serve as an expert reviewer for the artificial intelligence medical project.
+    - **2024-11-25**: Interviewed by the Global Times. [Advancements in AI for football and robot marathons](https://www.globaltimes.cn/page/202411/1323695.shtml)
+    - **2024-11-16**: Invited to attend the AGIROS Open Source Community Conference at the Institute of Software, Chinese Academy of Sciences, and delivered a keynote speech on "Embodied Intelligence of Humanoid Robots".
+    - **2024-11-09**: Joined the Intel China Academic Talent Program and delivered a keynote speech on "Research on Embodied AI of Humanoid Robots".
+    - **2024-11-05**: Invited to attend the BAAI "ZhiYuan Forum - Embodiment and World Model Summit".
+    - **2024-09-30**: Delivered a talk at the School of Computer Science, Peking University, on Multimodal Perception and Large Model Decision-Making for Humanoid Robots.
+    - **2024-07-29**: Interviewed by Mango (Hunan) TV on the topic of "Embodied AI and Humanoid Robots Tian Gong".
+    - **2024-07-05**: Invited by the China Internet Research Institute to draft a white paper on embodied intelligence in the industrial internet, presenting a report on the integration and innovation of new industrial networks and humanoid robot embodied intelligence technology.
+    - **2024-07-01**: Invited to give a talk in XMech at Zhejiang University.
+    - **2024-05-29**: Interviewed by the Beijing Association for Science and Technology.
+    - **2024-05-09**: [The humanoid robot platform 'TianGong' is continuously being iterated and developed.](https://tv.cctv.com/2024/05/09/VIDEk6Q0pOBAcbsWlM6mD2gN240509.shtml)
 
 
 
