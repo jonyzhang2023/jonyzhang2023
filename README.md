@@ -13,7 +13,7 @@
 
 
 - 🗞️ News
-  - **2025-11-29**: Our work [[SPO](https://arxiv.org/abs/2401.16025)] has been adopted as the baseline reinforcement learning algorithm by [[PI0.6](https://www.pi.website/blog/pistar06)].
+    - **2025-11-29**: Our work [[SPO](https://arxiv.org/abs/2401.16025)] has been adopted as the baseline reinforcement learning algorithm by [[PI0.6](https://www.pi.website/blog/pistar06)].
     - **2025-08**: We won the 100m championship, 400m second and third place, 1500m second place, 4x100m second place, material organization competition championship, and material handling competition second place at the first World Robotics Conference. [WHR2025](https://www.whrgoc.com/)
     - **2025-07-29**: Released the Humanoid General Multimodal Perception Module, [Humanoid Occupancy](https://humanoid-occupancy.github.io/).
     - **2025-07-09**: Released the motion control framework for the humanoid robot marathon champion. [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab)
