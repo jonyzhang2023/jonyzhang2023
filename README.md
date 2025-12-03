@@ -43,8 +43,7 @@
 ### Pre - prints
 | Title                                                                                                                      | Link                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA
-Models at Minimal Overhead    | [Link](https://arxiv.org/abs/2512.00903)                                                                                           |
+| SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead                                 | [Link](https://arxiv.org/abs/2512.00903)                                                                                           |
 | DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction    | [Link](https://arxiv.org/pdf/2510.07152)                                                                                           |
 | Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition | [Link](https://arxiv.org/pdf/2510.01068)                                                                                           |
 | PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control                             | [Link](https://arxiv.org/pdf/2509.24591)                                                                                           |
