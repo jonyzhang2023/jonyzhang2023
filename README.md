@@ -5,7 +5,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyzhang2023" alt="jonyzhang2023" /></a> </p> -->
 
 - 🔭 I'm the Chair of the Research Committee and Chief Researcher at the China National Innovation Center of Embodied AI Robotics. (I'm looking forward to collaborating on exciting projects in this field!) Previously, I participated in 'Tianhe 天河' supercomputing projects in China and also had a very pleasant working experience at [DJI](https://www.dji.com/).
-- I am deeply collaborating with Professor [Shaoqing Ren](https://shaoqingren.com/) at the University of Science and Technology of China. Welcome to visit and apply to our program.
+- 🎓 I am deeply collaborating with Professor [Shaoqing Ren](https://shaoqingren.com/) at the University of Science and Technology of China. Welcome to visit and apply to our program.
 - 📚 Visit my [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate) for my publications.
 - 🌟 I’m currently working on **Humanoid Robots**:
   - [TianGong Humanoid Robot (China Universial Humanoid Robot Platform)](https://x-humanoid.com//)
