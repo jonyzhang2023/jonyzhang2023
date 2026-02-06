@@ -44,6 +44,7 @@
 ### Pre - prints
 | Title                                                                                                                   | Link                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [Link](https://www.alphaxiv.org/abs/2601.22517) | 
 | SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead                              | [Link](https://arxiv.org/abs/2512.00903)                                                                                           |
 | DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction | [Link](https://arxiv.org/pdf/2510.07152)                                                                                           |
 | PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control                          | [Link](https://arxiv.org/pdf/2509.24591)                                                                                           |
