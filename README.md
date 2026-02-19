@@ -44,6 +44,7 @@
 ### Pre - prints
 | Title                                                                                                                   | Link                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [Link](https://meshmimic.github.io/) | 
 | HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model | [Link](https://haic-humanoid.github.io/) |
 | RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [Link](https://www.alphaxiv.org/abs/2601.22517) | 
 | SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead                              | [Link](https://arxiv.org/abs/2512.00903)                                                                                           |
