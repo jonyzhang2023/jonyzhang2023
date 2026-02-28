@@ -102,7 +102,7 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 
 ### 🔬 Pre-prints
 
-<details>
+<details open>
 <summary><b>🔽 Click to expand pre-prints</b></summary>
 <br/>
 
@@ -143,8 +143,7 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 
 | Venue | Title | Link |
 |:------|:------|:----:|
-| **ICML 2025** | Simple Policy Optimization | [🔗](https://arxiv.org/abs/2401.16025) |
-| **RSS 2025** | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [🔗](https://arxiv.org/pdf/2412.13877) |
+| **IROS 2024** | Whole-body Humanoid Robot Locomotion with Human Reference | [🔗](https://arxiv.org/abs/2402.18294) |
 | **CVPR 2026** | SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models | [🔗](https://arxiv.org/abs/2512.00903) |
 | **ICLR 2026** | Compose Your Policies! Improving Diffusion/Flow Robot Policies via Test-time Composition | [🔗](https://arxiv.org/pdf/2510.01068) |
 | **ICLR 2026** | ArtVIP: Articulated Digital Assets for Robot Learning | [🔗](https://www.arxiv.org/abs/2506.04941) |
@@ -153,6 +152,8 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 | **ICRA 2026** | Learning Structural Latent Points for Efficient Visual Representations in Robotic Manipulation | 📬 |
 | **AAAI 2026** | What You See is What You Reach: Spatial Navigation with High-Level Human Instructions | [🔗](https://openreview.net/pdf?id=ow65qpDY3Q) |
 | **ICASSP 2026** | NeuSpeech: Decode Neural Signal as Speech | [🔗](https://arxiv.org/pdf/2403.01748v3) |
+| **ICML 2025** | Simple Policy Optimization | [🔗](https://arxiv.org/abs/2401.16025) |
+| **RSS 2025** | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [🔗](https://arxiv.org/pdf/2412.13877) |
 | **IEEE TVCG** | DEGS: Deformable Event-based 3D Gaussian Splatting | [🔗](https://openreview.net/pdf?id=gSO9fYLPSw) |
 | **CoRL 2025** | Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion | [🔗](https://acodedog.github.io/OmniPerceptionPages/) |
 | **ICCV 2025** | What Makes for Text to 360-degree Panorama Generation with Stable Diffusion? | [🔗](https://huggingface.co/papers/2505.22129) |
@@ -175,7 +176,6 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 | **NeurIPS 2024** | DEL: Discrete Element Learner for Learning 3D Dynamics from 2D Observations | [🔗](https://openreview.net/forum?id=2nvkD0sPOk) |
 | **NeurIPS 2024** | Spiking Neural Network as Adaptive Event Stream Slicer | [🔗](https://openreview.net/forum?id=CcNw4mVIxo) |
 | **IEEE TAI** | Spiking Diffusion Models | [🔗](https://arxiv.org/pdf/2408.16467) |
-| **IROS 2024** | Whole-body Humanoid Robot Locomotion with Human Reference | [🔗](https://arxiv.org/abs/2402.18294) |
 | **IROS 2024** | Reinforcement Learning with Generalizable Gaussian Splatting | [🔗](https://arxiv.org/pdf/2404.07950) |
 | **IROS 2024** | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | [🔗](https://arxiv.org/pdf/2403.15223) |
 | **ICRA 2024** | Prompting Multi-Modal Tokens for End-to-End Autonomous Driving with LLMs | [🔗](https://arxiv.org/pdf/2404.04869) |
