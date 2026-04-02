@@ -108,6 +108,7 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 
 | Title | Link |
 |:------|:----:|
+| Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control | [🔗](https://heracles-humanoid-control.github.io/) |
 | MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [🔗](https://meshmimic.github.io/) |
 | HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model | [🔗](https://haic-humanoid.github.io/) |
 | RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [🔗](https://www.alphaxiv.org/abs/2601.22517) |
