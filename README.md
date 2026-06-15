@@ -9,7 +9,6 @@
 <!-- Social Badges -->
 <p>
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="mailto:jony.zhang@x-humanoid.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="mailto:zituka@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-4BA3C3?style=for-the-badge&logo=maildotru&logoColor=white" alt="Foxmail"/></a>
 <a href="mailto:qzhang749@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/HKUST--GZ-003366?style=for-the-badge&logo=academia&logoColor=white" alt="HKUST-GZ"/></a>
 <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
@@ -21,12 +20,13 @@
 
 ## 🧑‍🔬 About Me
 
-> **Chair of the Research Committee & Chief Researcher** at the [China National Innovation Center of Embodied AI Robotics](https://x-humanoid.com/)  
-> Deeply collaborating with Prof. [Shaoqing Ren](https://shaoqingren.com/) at USTC
+> **Assistant Professor** at the **Artificial General Intelligence Institute**, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)  
+> Working alongside Prof. [Shaoqing Ren](https://shaoqingren.com/) and colleagues at USTC
 
-- 🤖 Currently leading research on **Humanoid Robots** — building the [TianGong Humanoid Robot Platform](https://x-humanoid.com//)
-- 🏛️ Previously contributed to **"Tianhe 天河" Supercomputing** projects and worked at [DJI](https://www.dji.com/)
-- 🎓 Welcome to visit and apply to our collaborative program at USTC
+- 🤖 Researching **Humanoid Robots & Embodied AI** at USTC's Artificial General Intelligence Institute
+- 🦿 Previously led humanoid robotics research and the [TianGong Humanoid Robot Platform](https://x-humanoid.com//) at the China National Innovation Center of Embodied AI Robotics
+- 🏛️ Earlier contributed to **"Tianhe 天河" Supercomputing** projects and worked at [DJI](https://www.dji.com/)
+- 🎓 Welcome to visit and apply to join our group at USTC
 - 📚 Check out my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate) for recent publications
 - 🤝 Open to collaborations in **Humanoid Robots, Embodied AI, RL, Vision Perception, LLM, Control & Planning**
 
