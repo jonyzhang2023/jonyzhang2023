@@ -108,6 +108,12 @@ I'm currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pla
 
 | Title                                                                                          |                                           Link                                           |
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
+| GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training |                          [🔗](https://arxiv.org/abs/2606.12995)                           |
+| VAIC: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands            |                          [🔗](https://arxiv.org/abs/2606.09286)                           |
+| Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain     |                          [🔗](https://arxiv.org/abs/2606.08059)                           |
+| GeoSem-WAM: Geometry- and Semantic-Aware World Action Models                                    |                          [🔗](https://arxiv.org/abs/2606.03188)                           |
+| OneVLA: A Unified Framework for Embodied Tasks                                                  |                          [🔗](https://arxiv.org/abs/2606.01241)                           |
+| AttenA+: Rectifying Action Inequality in Robotic Foundation Models                              |                          [🔗](https://arxiv.org/abs/2605.13548)                           |
 | RobotPan: A 360◦ Surround-View Robotic Vision System for Embodied Perception                   |                             [🔗](https://robotpan.github.io/)                             |
 | Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control      |                    [🔗](https://heracles-humanoid-control.github.io/)                     |
 | MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction             |                            [🔗](https://meshmimic.github.io/)                             |
