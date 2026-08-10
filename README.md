@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Minimal Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=140&section=header&text=Qiang%20Jony%20ZHANG&fontSize=36&fontColor=e6edf3&fontAlignY=40&desc=Assistant%20Professor%20·%20USTC%20Artificial%20General%20Intelligence%20Institute&descSize=14&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,100:00f2fe&height=140&section=header&text=Qiang%20Jony%20ZHANG&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Assistant%20Professor%20·%20USTC%20Artificial%20General%20Intelligence%20Institute&descSize=14&descAlignY=60"/>
 
 <p align="center" style="margin-top: -20px;">
   <code>Humanoid Robotics</code> · <code>Embodied AI</code> · <code>Reinforcement Learning</code>
@@ -9,13 +9,13 @@
 
 <p>
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate">
-    <img src="https://img.shields.io/badge/Google%20Scholar-30363d?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4facfe?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:jonyzhang@ustc.edu.cn">
-    <img src="https://img.shields.io/badge/Email-jonyzhang%40ustc.edu.cn-30363d?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-jonyzhang%40ustc.edu.cn-4facfe?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/jonyzhang2023">
-    <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20Views&color=30363d&style=for-the-badge" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20Views&color=4facfe&style=for-the-badge" alt="Profile views"/>
   </a>
 </p>
 
@@ -45,25 +45,25 @@ Earlier, I spent a highly rewarding period at DJI.
   <tr>
     <td align="center" width="25%">
       <a href="https://x-humanoid.com//">
-        <img src="https://img.shields.io/badge/TianGong-Humanoid%20Platform-0d1117?style=for-the-badge&logo=robot-framework&logoColor=white" alt="TianGong"/>
+        <img src="https://img.shields.io/badge/TianGong-Humanoid%20Platform-4facfe?style=for-the-badge&logo=robot-framework&logoColor=white" alt="TianGong"/>
         <br/><sub><b>China Universal Humanoid Robot Platform</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.unitree.com/">
-        <img src="https://img.shields.io/badge/Unitree-G1-0d1117?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Unitree G1"/>
+        <img src="https://img.shields.io/badge/Unitree-G1-4facfe?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Unitree G1"/>
         <br/><sub><b>Unitree G1</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.youtube.com/watch?v=7hK2ySYBa1I">
-        <img src="https://img.shields.io/badge/PNDbotics-Adam-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="Adam"/>
+        <img src="https://img.shields.io/badge/PNDbotics-Adam-4facfe?style=for-the-badge&logo=youtube&logoColor=white" alt="Adam"/>
         <br/><sub><b>PNDbotics Adam</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.youtube.com/watch?v=kr7FaZPFp6M">
-        <img src="https://img.shields.io/badge/Fourier-GR1%20(2021--2023)-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="GR1"/>
+        <img src="https://img.shields.io/badge/Fourier-GR1%20(2021--2023)-4facfe?style=for-the-badge&logo=youtube&logoColor=white" alt="GR1"/>
         <br/><sub><b>Fourier GR1</b></sub>
       </a>
     </td>
@@ -217,11 +217,11 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,r,bash,matlab&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,r,bash,matlab&theme=light" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,linux,ubuntu,cmake&theme=dark" alt="Frameworks & Tools"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,linux,ubuntu,cmake&theme=light" alt="Frameworks & Tools"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab,aws,vscode,vim,html&theme=dark" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,aws,vscode,vim,html&theme=light" alt="Dev Tools"/>
 </p>
 
 ---
@@ -230,16 +230,16 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 
 <p align="center">
   <a href="https://github.com/jonyzhang2023?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jonyzhang2023&theme=dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jonyzhang2023&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=4facfe&text_color=5a6b7a&icon_color=4facfe&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/jonyzhang2023?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonyzhang2023&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3" width="49%" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonyzhang2023&hide_border=true&background=ffffff&ring=4facfe&fire=4facfe&currStreakLabel=4facfe&sideLabels=5a6b7a&dates=5a6b7a" width="49%" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://wakatime.com/@jonyzhang20238888">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonyzhang2023&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff" width="98%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonyzhang2023&hide_border=true&bg_color=ffffff&color=4facfe&line=4facfe&point=00c9ff&area=true&area_color=4facfe" width="98%" alt="Activity Graph"/>
   </a>
 </p>
 
