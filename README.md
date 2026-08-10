@@ -9,8 +9,7 @@
 <!-- Social Badges -->
 <p>
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=9aG3giMAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="mailto:zituka@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-4BA3C3?style=for-the-badge&logo=maildotru&logoColor=white" alt="Foxmail"/></a>
-<a href="mailto:qzhang749@connect.hkust-gz.edu.cn"><img src="https://img.shields.io/badge/HKUST--GZ-003366?style=for-the-badge&logo=academia&logoColor=white" alt="HKUST-GZ"/></a>
+<a href="mailto:jonyzhang@ustc.edu.cn"><img src="https://img.shields.io/badge/Email-jonyzhang%40ustc.edu.cn-003366?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=jonyzhang2023&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
