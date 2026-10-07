@@ -80,9 +80,9 @@ Earlier, I spent a highly rewarding period at DJI.
 
 > **🎓 2026-07** — Joined **USTC as an Assistant Professor**.
 
-> **🏅 2025-08** — Won **100m championship**, 400m 2nd & 3rd, 1500m 2nd, 4×100m 2nd, material organization championship, and material handling 2nd at [WHR 2025](https://www.whrgoc.com/).
+> **🏅 2025-08** — Won the **100 m championship** and material organization championship; placed 2nd and 3rd in 400 m, and 2nd in 1,500 m, 4 × 100 m, and material handling at [WHR 2025](https://www.whrgoc.com/).
 
-> **📰 2025-05** — Published a signed essay in *People's Daily* on the hierarchical architecture of humanoid robots: [Do Humanoid Robots Have a “Brain” and a “Cerebellum”?](http://js.people.com.cn/n2/2025/0524/c360301-41237971.html)
+> **📰 2025-05** — Published a signed essay in *People's Daily* on the hierarchical architecture of humanoid robots: [Do Humanoid Robots Have a “Brain” and a “Cerebellum”?](http://js.people.com.cn/n2/2025/0524/c360301-41237971.html).
 
 > **🏃‍♂️ 2025-04** — Our algorithm supported **TianGong Ultra's championship** at the [2025 Beijing Humanoid Robot Half-Marathon](http://www.news.cn/science/20250419/624a79549602425591320182e682e315/c.html).
 
@@ -92,29 +92,46 @@ Earlier, I spent a highly rewarding period at DJI.
 <summary><b>Full timeline</b></summary>
 <br/>
 
+### 2026
+
 | Date | Event |
 | :--- | :---- |
-| **2025-11-29** | [SPO](https://arxiv.org/abs/2401.16025) adopted as baseline RL algorithm by [PI0.6](https://www.pi.website/blog/pistar06) |
-| **2025-07-29** | Released [Humanoid Occupancy](https://humanoid-occupancy.github.io/) — Generalized Multimodal Perception Module |
-| **2025-07-09** | Released [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab) |
-| **2025-05-24** | Published an [article in People's Daily](https://www.peopleapp.com/column/30049160906-500006276594) |
-| **2025-05-08** | Featured on the "Innovation China" TV program |
-| **2025-04-24** | Co-hosted embodied intelligent robots seminar with Peking University |
-| **2025-04-10** | Interviewed by "Innovation China" column of China Association for Science and Technology |
-| **2025-03-29** | Invited talk at [CEAI 2025](https://ceai.caai.cn/) |
-| **2025-03-06** | Joined the CNR Finance Jin Ding Think Tank |
-| **2025-01-08** | Participated in Beijing City's long-term robot planning and technical roadmap |
-| **2024-12-30** | Invited by National Health Commission as expert reviewer for AI medical projects |
-| **2024-11-25** | [Interviewed by Global Times](https://www.globaltimes.cn/page/202411/1323695.shtml) on AI for football & robot marathons |
-| **2024-11-16** | Keynote on "Embodied Intelligence of Humanoid Robots" at AGIROS Conference, Chinese Academy of Sciences |
-| **2024-11-09** | Intel China Academic Talent Program keynote on "Research on Embodied AI of Humanoid Robots" |
-| **2024-11-05** | Attended BAAI "ZhiYuan Forum — Embodiment and World Model Summit" |
-| **2024-09-30** | Talk at Peking University on Multimodal Perception & Large Model Decision-Making for Humanoid Robots |
-| **2024-07-29** | Interviewed by Mango (Hunan) TV on "Embodied AI and Humanoid Robots Tian Gong" |
-| **2024-07-05** | Invited by China Internet Research Institute to draft embodied intelligence white paper |
-| **2024-07-01** | Invited talk at XMech, Zhejiang University |
-| **2024-05-29** | Interviewed by Beijing Association for Science and Technology |
-| **2024-05-09** | [Featured on CCTV](https://tv.cctv.com/2024/05/09/VIDEk6Q0pOBAcbsWlM6mD2gN240509.shtml) — TianGong continuous iteration |
+| **2026-08** | Our algorithms [SOLO](https://sunpihai-up.github.io/solo/) and [MeshMimic](https://meshmimic.github.io/) supported TianGong Omni's championship at the [World Humanoid Robot Games 400 m obstacle race](https://www.beijing.gov.cn/fuwu/lqfw/gggs/202608/t20260825_4835525.html). |
+| **2026-08** | Featured in the inaugural episode of CCF TF's [*Dialogue on the Tech Frontier*](https://www.ccf.org.cn/Activities/Training/TF/TF/2026-08-14/923757.shtml), discussing world models and the deployment of embodied intelligence. |
+| **2026-07** | Joined USTC as an Assistant Professor. |
+
+### 2025
+
+| Date | Event |
+| :--- | :---- |
+| **2025-11-29** | [SPO](https://arxiv.org/abs/2401.16025) was adopted as a baseline reinforcement learning algorithm by [PI0.6](https://www.pi.website/blog/pistar06). |
+| **2025-08** | Won the 100 m and material organization championships; placed 2nd and 3rd in 400 m, and 2nd in 1,500 m, 4 × 100 m, and material handling at the [World Humanoid Robot Games](https://www.whrgoc.com/). |
+| **2025-07-29** | Released [Humanoid Occupancy](https://humanoid-occupancy.github.io/), a generalized multimodal perception module. |
+| **2025-07-09** | Released the [TienKung Marathon Control Framework](https://github.com/Open-X-Humanoid/TienKung-Lab). |
+| **2025-05-24** | Published a signed essay in *People's Daily*: [Do Humanoid Robots Have a “Brain” and a “Cerebellum”?](http://js.people.com.cn/n2/2025/0524/c360301-41237971.html). |
+| **2025-05-08** | Featured on the *Innovation China* TV program. |
+| **2025-04-24** | Co-hosted a seminar on embodied intelligent robots with Peking University. |
+| **2025-04-19** | Our algorithm supported TianGong Ultra's championship at the [Beijing Humanoid Robot Half-Marathon](http://www.news.cn/science/20250419/624a79549602425591320182e682e315/c.html). |
+| **2025-04-10** | Interviewed by the *Innovation China* column of the China Association for Science and Technology. |
+| **2025-03-29** | Gave an invited talk at [CEAI 2025](https://ceai.caai.cn/). |
+| **2025-03-06** | Joined the CNR Finance Jin Ding Think Tank. |
+| **2025-01-08** | Contributed to Beijing's long-term robot planning and technical roadmap. |
+
+### 2024
+
+| Date | Event |
+| :--- | :---- |
+| **2024-12-30** | Invited by the National Health Commission to serve as an expert reviewer for AI medical projects. |
+| **2024-11-25** | [Interviewed by *Global Times*](https://www.globaltimes.cn/page/202411/1323695.shtml) on TianGong's half-marathon appearance and the open-source initiative for humanoid robotics. |
+| **2024-11-16** | Gave a keynote on “Embodied Intelligence of Humanoid Robots” at the AGIROS Conference, Chinese Academy of Sciences. |
+| **2024-11-09** | Gave a keynote on “Research on Embodied AI of Humanoid Robots” for the Intel China Academic Talent Program. |
+| **2024-11-05** | Attended BAAI's “ZhiYuan Forum — Embodiment and World Model Summit.” |
+| **2024-09-30** | Gave a talk at Peking University on multimodal perception and large model decision-making for humanoid robots. |
+| **2024-07-29** | Interviewed by Mango (Hunan) TV on embodied AI and the TianGong humanoid robot. |
+| **2024-07-05** | Invited by the China Internet Research Institute to draft a white paper on embodied intelligence. |
+| **2024-07-01** | Gave an invited talk at XMech, Zhejiang University. |
+| **2024-05-29** | Interviewed by the Beijing Association for Science and Technology. |
+| **2024-05-09** | [Featured on CCTV](https://tv.cctv.com/2024/05/09/VIDEk6Q0pOBAcbsWlM6mD2gN240509.shtml) on TianGong's continuous development. |
 
 </details>
 
@@ -124,94 +141,94 @@ Earlier, I spent a highly rewarding period at DJI.
 
 I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Planning in Robotics**.
 
-### Pre-prints
-
-<details>
-<summary><b>Expand pre-prints</b></summary>
-<br/>
-
-| Title | Link |
-| :---- | :--: |
-| Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies | [Paper](https://arxiv.org/abs/2610.06235) |
-| Unrolling the Action Manifold: Visuomotor Policy Learning via Recursive Cascades | [Paper](https://sagecao1125.github.io/RCP-Site/static/paper.pdf) · [Project](https://sagecao1125.github.io/RCP-Site/) |
-| GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training | [🔗](https://arxiv.org/abs/2606.12995) |
-| VAIC: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands | [🔗](https://arxiv.org/abs/2606.09286) |
-| GeoSem-WAM: Geometry- and Semantic-Aware World Action Models | [🔗](https://arxiv.org/abs/2606.03188) |
-| OneVLA: A Unified Framework for Embodied Tasks | [🔗](https://arxiv.org/abs/2606.01241) |
-| AttenA+: Rectifying Action Inequality in Robotic Foundation Models | [🔗](https://arxiv.org/abs/2605.13548) |
-| RobotPan: A 360◦ Surround-View Robotic Vision System for Embodied Perception | [🔗](https://robotpan.github.io/) |
-| Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control | [🔗](https://heracles-humanoid-control.github.io/) |
-| RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [🔗](https://www.alphaxiv.org/abs/2601.22517) |
-| PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control | [🔗](https://arxiv.org/pdf/2509.24591) |
-| LOVON: Legged Open-Vocabulary Object Navigator | [🔗](https://arxiv.org/abs/2507.06747) |
-| Occupancy World Model for Robots | [🔗](https://www.arxiv.org/abs/2505.05512) |
-| RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots | [🔗](https://arxiv.org/pdf/2504.14604) |
-| Representation Convergence: Mutual Distillation is Secretly a Form of Regularization | [🔗](https://arxiv.org/abs/2501.02481) |
-| EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks | [🔗](https://arxiv.org/abs/2503.11089) |
-| HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots | [🔗](https://arxiv.org/abs/2503.09010) |
-| Recursive Cleaning for Large-scale Protein Data via Multimodal Learning | [🔗](https://www.biorxiv.org/content/biorxiv/early/2024/10/12/2024.10.08.617190.full.pdf) |
-| Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning | [🔗](https://arxiv.org/pdf/2406.02370) |
-| Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models | [🔗](https://arxiv.org/pdf/2409.13174) |
-| E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework | [🔗](https://arxiv.org/abs/2410.02141) |
-| A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning (original v1) | [Paper](https://arxiv.org/abs/2501.17384v1) |
-
-</details>
-
 ### Peer-Reviewed
 
 <details>
 <summary><b>Expand peer-reviewed publications</b></summary>
 <br/>
 
-| Venue | Title | Link |
+| Venue | Title | Links |
 | :---- | :---- | :--: |
+| **IROS 2024** | Whole-body Humanoid Robot Locomotion with Human Reference | [Paper](https://arxiv.org/abs/2402.18294) |
 | **ACCV 2026** | LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes | [Paper](https://arxiv.org/abs/2508.16943) |
 | **ACM MM 2026** | EgoDemoGen: Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation | [Paper](https://arxiv.org/abs/2509.22578) · [Project](https://egodemogen.github.io/) |
 | **NeurIPS 2026** | Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating | [Paper](https://arxiv.org/abs/2610.08320) · [Project](https://haozhuo-zhang.github.io/Humanoid-Horizon-project-page/) |
 | **CoRL 2026** | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | [Paper](https://arxiv.org/abs/2608.26583) · [Project](https://sunpihai-up.github.io/solo/) |
 | **CoRL 2026** | MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [Paper](https://arxiv.org/abs/2602.15733) · [Project](https://meshmimic.github.io/) |
 | **CoRL 2026** | Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain | [Paper](https://arxiv.org/abs/2606.08059) · [Project](https://acodedog.github.io/perceptive-bfm/) |
-| **IROS 2024** | Whole-body Humanoid Robot Locomotion with Human Reference | [🔗](https://arxiv.org/abs/2402.18294) |
-| **IEEE RA-L 2026** | DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction | [🔗](https://arxiv.org/pdf/2510.07152) |
-| **ICML 2026** | MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy | [🔗](https://icml.cc/virtual/2026/poster/66326) |
-| **ICML 2026** | MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation | [🔗](https://www.alphaxiv.org/abs/2602.09878) |
-| **ICML 2026** | iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning | [🔗](https://icml.cc/virtual/2026/poster/63651) |
-| **RSS 2026** | HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model | [🔗](https://haic-humanoid.github.io/) |
-| **CVPR 2026** | SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead | [🔗](https://arxiv.org/abs/2512.00903) |
-| **ICLR 2026** | Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition | [🔗](https://arxiv.org/pdf/2510.01068) |
-| **ICLR 2026** | ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning | [🔗](https://www.arxiv.org/abs/2506.04941) |
+| **IEEE RA-L 2026** | DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction | [Paper](https://arxiv.org/pdf/2510.07152) |
+| **ICML 2026** | MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy | [Paper](https://icml.cc/virtual/2026/poster/66326) |
+| **ICML 2026** | MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation | [Paper](https://www.alphaxiv.org/abs/2602.09878) |
+| **ICML 2026** | iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning | [Paper](https://icml.cc/virtual/2026/poster/63651) |
+| **RSS 2026** | HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model | [Project](https://haic-humanoid.github.io/) |
+| **CVPR 2026** | SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead | [Paper](https://arxiv.org/abs/2512.00903) |
+| **ICLR 2026** | Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition | [Paper](https://arxiv.org/pdf/2510.01068) |
+| **ICLR 2026** | ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning | [Paper](https://www.arxiv.org/abs/2506.04941) |
 | **ICRA 2026** | Physics-informed Diffusion Mamba Transformer for Real-world Driving | [Paper](https://arxiv.org/abs/2602.00808) |
-| **ICRA 2026** | TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation | [🔗](https://arxiv.org/pdf/2509.01364) |
+| **ICRA 2026** | TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation | [Paper](https://arxiv.org/pdf/2509.01364) |
 | **ICRA 2026** | Learning Structural Latent Points for Efficient Visual Representations in Robotic Manipulation | [Paper](https://arxiv.org/abs/2605.21258) |
-| **AAAI 2026** | What You See is What You Reach: Spatial Navigation with High-Level Human Instructions | [🔗](https://openreview.net/pdf?id=ow65qpDY3Q) |
-| **ICASSP 2026** | NeuSpeech: Decode Neural Signal as Speech | [🔗](https://arxiv.org/pdf/2403.01748v3) |
-| **ICML 2025** | Simple Policy Optimization | [🔗](https://arxiv.org/abs/2401.16025) |
-| **RSS 2025** | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [🔗](https://arxiv.org/pdf/2412.13877) |
+| **AAAI 2026** | What You See is What You Reach: Spatial Navigation with High-Level Human Instructions | [Paper](https://openreview.net/pdf?id=ow65qpDY3Q) |
+| **ICASSP 2026** | NeuSpeech: Decode Neural Signal as Speech | [Paper](https://arxiv.org/pdf/2403.01748v3) |
+| **ICML 2025** | Simple Policy Optimization | [Paper](https://arxiv.org/abs/2401.16025) |
+| **RSS 2025** | RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation | [Paper](https://arxiv.org/pdf/2412.13877) |
 | **IEEE TVCG 2025** | DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream | [Paper](https://arxiv.org/abs/2510.07752) · [DOI](https://doi.org/10.1109/TVCG.2025.3618768) |
-| **CoRL 2025 (Oral)** | Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments | [🔗](https://acodedog.github.io/OmniPerceptionPages/) |
-| **ICCV 2025** | What Makes for Text to 360-degree Panorama Generation with Stable Diffusion? | [🔗](https://huggingface.co/papers/2505.22129) |
-| **ICCV 2025** | Learning Null Geodesics for Gravitational Lensing Rendering in General Relativity | [🔗](https://openreview.net/forum?id=2syCDlDdtB) |
-| **ACM MM 2025** | Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models | [🔗](https://openreview.net/forum?id=F6UY0u0Hxd#discussion) |
-| **IROS 2025** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | [🔗](https://www.arxiv.org/pdf/2409.07163) |
-| **IROS 2025** | Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion | [🔗](https://arxiv.org/abs/2503.08299) |
-| **ACL 2025** | MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation | [🔗](https://arxiv.org/abs/2502.13451) |
-| **CVPR 2025** | Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models | [🔗](https://arxiv.org/pdf/2412.05538) |
-| **ICRA 2025** | Multi-Floor Zero-Shot Object Navigation Policy | [🔗](https://arxiv.org/pdf/2409.10906) |
-| **ICASSP 2025** | Fully Spiking Neural Network for Legged Robots | [🔗](https://arxiv.org/pdf/2310.05022) |
-| **ICASSP 2025** | Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras | [🔗](https://arxiv.org/pdf/2501.01040) |
-| **ICME 2025** | ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network | [🔗](https://arxiv.org/abs/2503.09985) |
-| **IJCAI 2025** 🏆 | Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models | [🔗](https://arxiv.org/pdf/2503.11519) |
-| **IEEE RA-L 2026** / H2R@**CoRL 2025** | UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots | [🔗](https://yinkangning0124.github.io/Humanoid-UniTracker/) |
-| **NeurIPS 2024** | DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering | [🔗](https://openreview.net/forum?id=2nvkD0sPOk) |
-| **NeurIPS 2024** | Spiking Neural Network as Adaptive Event Stream Slicer | [🔗](https://openreview.net/forum?id=CcNw4mVIxo) |
-| **IEEE TAI** | Spiking Diffusion Models | [🔗](https://arxiv.org/pdf/2408.16467) |
-| **IROS 2024** | Reinforcement Learning with Generalizable Gaussian Splatting | [🔗](https://arxiv.org/pdf/2404.07950) |
-| **IROS 2024** | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | [🔗](https://arxiv.org/pdf/2403.15223) |
-| **ICRA 2024** | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | [🔗](https://arxiv.org/pdf/2404.04869) |
-| **ICRA 2024** | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | [🔗](https://arxiv.org/abs/2309.11359) |
-| **WACV 2024** | Spiking Denoising Diffusion Probabilistic Models | [🔗](https://arxiv.org/abs/2306.17046) |
-| **ICCV 2023** | Masked Spiking Transformer | [🔗](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf) |
-| **CoRL 2022** | RoboTube: Learning Household Manipulation from Human Videos | [🔗](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/) |
+| **CoRL 2025 (Oral)** | Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments | [Project](https://acodedog.github.io/OmniPerceptionPages/) |
+| **ICCV 2025** | What Makes for Text to 360-degree Panorama Generation with Stable Diffusion? | [Paper](https://huggingface.co/papers/2505.22129) |
+| **ICCV 2025** | Learning Null Geodesics for Gravitational Lensing Rendering in General Relativity | [Paper](https://openreview.net/forum?id=2syCDlDdtB) |
+| **ACM MM 2025** | Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models | [Paper](https://openreview.net/forum?id=F6UY0u0Hxd#discussion) |
+| **IROS 2025** | Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models | [Paper](https://www.arxiv.org/pdf/2409.07163) |
+| **IROS 2025** | Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion | [Paper](https://arxiv.org/abs/2503.08299) |
+| **ACL 2025** | MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation | [Paper](https://arxiv.org/abs/2502.13451) |
+| **CVPR 2025** | Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models | [Paper](https://arxiv.org/pdf/2412.05538) |
+| **ICRA 2025** | Multi-Floor Zero-Shot Object Navigation Policy | [Paper](https://arxiv.org/pdf/2409.10906) |
+| **ICASSP 2025** | Fully Spiking Neural Network for Legged Robots | [Paper](https://arxiv.org/pdf/2310.05022) |
+| **ICASSP 2025** | Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras | [Paper](https://arxiv.org/pdf/2501.01040) |
+| **ICME 2025** | ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network | [Paper](https://arxiv.org/abs/2503.09985) |
+| **IJCAI 2025** 🏆 | Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models | [Paper](https://arxiv.org/pdf/2503.11519) |
+| **IEEE RA-L 2026** / H2R@**CoRL 2025** | UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots | [Project](https://yinkangning0124.github.io/Humanoid-UniTracker/) |
+| **NeurIPS 2024** | DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering | [Paper](https://openreview.net/forum?id=2nvkD0sPOk) |
+| **NeurIPS 2024** | Spiking Neural Network as Adaptive Event Stream Slicer | [Paper](https://openreview.net/forum?id=CcNw4mVIxo) |
+| **IEEE TAI** | Spiking Diffusion Models | [Paper](https://arxiv.org/pdf/2408.16467) |
+| **IROS 2024** | Reinforcement Learning with Generalizable Gaussian Splatting | [Paper](https://arxiv.org/pdf/2404.07950) |
+| **IROS 2024** | TriHelper: Zero-Shot Object Navigation with Dynamic Assistance | [Paper](https://arxiv.org/pdf/2403.15223) |
+| **ICRA 2024** | Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs | [Paper](https://arxiv.org/pdf/2404.04869) |
+| **ICRA 2024** | Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning | [Paper](https://arxiv.org/abs/2309.11359) |
+| **WACV 2024** | Spiking Denoising Diffusion Probabilistic Models | [Paper](https://arxiv.org/abs/2306.17046) |
+| **ICCV 2023** | Masked Spiking Transformer | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.pdf) |
+| **CoRL 2022** | RoboTube: Learning Household Manipulation from Human Videos | [Paper](https://research.nvidia.com/labs/srl/publication/xiong-2022-robo-tube/) |
+
+</details>
+
+### Pre-prints
+
+<details>
+<summary><b>Expand pre-prints</b></summary>
+<br/>
+
+| Title | Links |
+| :---- | :--: |
+| Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies | [Paper](https://arxiv.org/abs/2610.06235) |
+| Unrolling the Action Manifold: Visuomotor Policy Learning via Recursive Cascades | [Paper](https://sagecao1125.github.io/RCP-Site/static/paper.pdf) · [Project](https://sagecao1125.github.io/RCP-Site/) |
+| GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training | [Paper](https://arxiv.org/abs/2606.12995) |
+| VAIC: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands | [Paper](https://arxiv.org/abs/2606.09286) |
+| GeoSem-WAM: Geometry- and Semantic-Aware World Action Models | [Paper](https://arxiv.org/abs/2606.03188) |
+| OneVLA: A Unified Framework for Embodied Tasks | [Paper](https://arxiv.org/abs/2606.01241) |
+| AttenA+: Rectifying Action Inequality in Robotic Foundation Models | [Paper](https://arxiv.org/abs/2605.13548) |
+| RobotPan: A 360◦ Surround-View Robotic Vision System for Embodied Perception | [Project](https://robotpan.github.io/) |
+| Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control | [Project](https://heracles-humanoid-control.github.io/) |
+| RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [Paper](https://www.alphaxiv.org/abs/2601.22517) |
+| PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control | [Paper](https://arxiv.org/pdf/2509.24591) |
+| LOVON: Legged Open-Vocabulary Object Navigator | [Paper](https://arxiv.org/abs/2507.06747) |
+| Occupancy World Model for Robots | [Paper](https://www.arxiv.org/abs/2505.05512) |
+| RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots | [Paper](https://arxiv.org/pdf/2504.14604) |
+| Representation Convergence: Mutual Distillation is Secretly a Form of Regularization | [Paper](https://arxiv.org/abs/2501.02481) |
+| EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks | [Paper](https://arxiv.org/abs/2503.11089) |
+| HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots | [Paper](https://arxiv.org/abs/2503.09010) |
+| Recursive Cleaning for Large-scale Protein Data via Multimodal Learning | [Paper](https://www.biorxiv.org/content/biorxiv/early/2024/10/12/2024.10.08.617190.full.pdf) |
+| Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning | [Paper](https://arxiv.org/pdf/2406.02370) |
+| Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models | [Paper](https://arxiv.org/pdf/2409.13174) |
+| E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework | [Paper](https://arxiv.org/abs/2410.02141) |
+| A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning (original v1) | [Paper](https://arxiv.org/abs/2501.17384v1) |
 
 </details>
 
@@ -221,16 +238,16 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 <summary><b>Expand workshop and affinity presentations</b></summary>
 <br/>
 
-| Venue | Title | Link |
+| Venue | Title | Links |
 | :---- | :---- | :--: |
-| DEMO@**ICML 2026** (Workshop) | Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning | [Paper](https://arxiv.org/abs/2406.02013) · [Workshop paper](https://openreview.net/forum?id=kKjkhduxje) |
+| DEMO@**ICML 2026** (Workshop) | Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning | [Paper](https://arxiv.org/abs/2406.02013) · [Workshop](https://openreview.net/forum?id=kKjkhduxje) |
 | New In ML@**ICML 2025** (Affinity Workshop) | NeuGPT: Unified multi-modal Neural GPT | [Paper](https://arxiv.org/abs/2410.20916) · [Presentation](https://icml.cc/virtual/2025/50469) |
 | New In ML@**ICML 2025** (Affinity Workshop) | MAD: Multi-Alignment MEG-to-Text Decoding | [Paper](https://arxiv.org/abs/2406.01512) · [Presentation](https://icml.cc/virtual/2025/50474) |
 | New In ML@**ICML 2025** (Affinity Workshop) | Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity | [Paper](https://arxiv.org/abs/2505.17937) · [Presentation](https://icml.cc/virtual/2025/50663) |
-| PM2CE@**IROS 2025** | Humanoid Occupancy: Generalized Multimodal Occupancy Perception for Humanoid Robots | [🔗](https://humanoid-occupancy.github.io/) |
-| Sim2Real@**Humanoids 2025** | LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures | [🔗](https://arxiv.org/abs/2503.08349) |
-| Sim2Real@**Humanoids 2025** | Trinity: A Modular Humanoid Robot AI System | [🔗](https://arxiv.org/abs/2503.08338) |
-| GenModels@**ICLR 2025** | Modality-Composable Diffusion Policy via Distribution-level Composition | [🔗](https://github.com/AndyCao1125/MCDP) |
+| PM2CE@**IROS 2025** | Humanoid Occupancy: Generalized Multimodal Occupancy Perception for Humanoid Robots | [Project](https://humanoid-occupancy.github.io/) |
+| Sim2Real@**Humanoids 2025** | LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures | [Paper](https://arxiv.org/abs/2503.08349) |
+| Sim2Real@**Humanoids 2025** | Trinity: A Modular Humanoid Robot AI System | [Paper](https://arxiv.org/abs/2503.08338) |
+| GenModels@**ICLR 2025** | Modality-Composable Diffusion Policy via Distribution-level Composition | [Code](https://github.com/AndyCao1125/MCDP) |
 
 </details>
 
