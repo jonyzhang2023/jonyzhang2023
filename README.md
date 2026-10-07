@@ -44,7 +44,7 @@ Earlier, I spent a highly rewarding period at DJI.
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <a href="https://x-humanoid.com//">
+      <a href="https://x-humanoid.com/">
         <img src="https://img.shields.io/badge/TianGong-Humanoid%20Platform-4facfe?style=for-the-badge&logo=robot-framework&logoColor=white" alt="TianGong"/>
         <br/><sub><b>China Universal Humanoid Robot Platform</b></sub>
       </a>
@@ -73,6 +73,10 @@ Earlier, I spent a highly rewarding period at DJI.
 ---
 
 ## Highlights
+
+> **📄 NeurIPS 2026** — [Humanoid Horizon](https://haozhuo-zhang.github.io/Humanoid-Horizon-project-page/): extending task horizons in whole-body loco-manipulation.
+
+> **📄 CoRL 2026** — [SOLO](https://sunpihai-up.github.io/solo/), [MeshMimic](https://meshmimic.github.io/), and [Perceptive BFM](https://acodedog.github.io/perceptive-bfm/): perceptive locomotion and terrain-aware humanoid motion learning.
 
 > **🏅 2025-08** — Won **100m championship**, 400m 2nd & 3rd, 1500m 2nd, 4×100m 2nd, material organization championship, and material handling 2nd at [WHR 2025](https://www.whrgoc.com/).
 
@@ -124,13 +128,11 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 | :---- | :--: |
 | GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training | [🔗](https://arxiv.org/abs/2606.12995) |
 | VAIC: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands | [🔗](https://arxiv.org/abs/2606.09286) |
-| Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain | [🔗](https://arxiv.org/abs/2606.08059) |
 | GeoSem-WAM: Geometry- and Semantic-Aware World Action Models | [🔗](https://arxiv.org/abs/2606.03188) |
 | OneVLA: A Unified Framework for Embodied Tasks | [🔗](https://arxiv.org/abs/2606.01241) |
 | AttenA+: Rectifying Action Inequality in Robotic Foundation Models | [🔗](https://arxiv.org/abs/2605.13548) |
 | RobotPan: A 360◦ Surround-View Robotic Vision System for Embodied Perception | [🔗](https://robotpan.github.io/) |
 | Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control | [🔗](https://heracles-humanoid-control.github.io/) |
-| MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [🔗](https://meshmimic.github.io/) |
 | RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing | [🔗](https://www.alphaxiv.org/abs/2601.22517) |
 | PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control | [🔗](https://arxiv.org/pdf/2509.24591) |
 | EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation | [🔗](https://arxiv.org/pdf/2509.22578) |
@@ -162,6 +164,10 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 
 | Venue | Title | Link |
 | :---- | :---- | :--: |
+| **NeurIPS 2026** | Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating | [Paper](https://arxiv.org/abs/2610.08320) · [Project](https://haozhuo-zhang.github.io/Humanoid-Horizon-project-page/) |
+| **CoRL 2026** | SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion | [Paper](https://arxiv.org/abs/2608.26583) · [Project](https://sunpihai-up.github.io/solo/) |
+| **CoRL 2026** | MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction | [Paper](https://arxiv.org/abs/2602.15733) · [Project](https://meshmimic.github.io/) |
+| **CoRL 2026** | Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain | [Paper](https://arxiv.org/abs/2606.08059) · [Project](https://acodedog.github.io/perceptive-bfm/) |
 | **IROS 2024** | Whole-body Humanoid Robot Locomotion with Human Reference | [🔗](https://arxiv.org/abs/2402.18294) |
 | **IEEE RAL** | DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis | [🔗](https://arxiv.org/pdf/2510.07152) |
 | **ICML 2026** | MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy | [🔗](https://icml.cc/virtual/2026/poster/66326) |
@@ -210,7 +216,7 @@ I am currently exploring **Embodied AI, RL, Vision Perception, LLM, Control & Pl
 
 </details>
 
-> *I have hidden some previous work — feel free to reach out. Personal website coming soon.*
+> *I have hidden some previous work — feel free to reach out. Visit my [personal website](https://jonyzhang2023.github.io/).*
 
 ---
 
